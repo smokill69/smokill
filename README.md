@@ -1,0 +1,2 @@
+# smokill
+domacanaloga
